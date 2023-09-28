@@ -1,6 +1,3 @@
-<!DOCTYPE html>
-
-
 <html>
 	<head>
 		<title>2nd Illuminati</title>
